@@ -1,2 +1,2 @@
-# AI-Based-Mobile-Sound-Management-System
-Intelligent Mobile Management System
+# Software Based Intelligent Mobile Management System
+Automatically regulates mobile sound profiles based on user context.
